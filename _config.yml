@@ -8,7 +8,7 @@ tagline:          'Raconteur, Narrator, Voice-over Guy and colour commentator'
 description:      'Raconteur, Narrator, Voice-over Guy and colour commentator'
 url:              http://www.jamesbarlow.co.uk
 baseurl:          /
-google_analytic:  "UA-32218078-1"
+google_analytics: "UA-32218078-1"
 gtm:              "GTM-P3CDPP"
 publisher:        "70c5804e-f2df-4819-9f8a-83bc7a282f54"
 cookie_control:   "c22932703f4a790c6bf91b9a0f4369bb38926269"
