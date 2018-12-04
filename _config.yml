@@ -4,8 +4,8 @@ theme: jekyll-theme-architect
 # Setup
 repository:       jmbarlow/www
 title:            James Barlow
-tagline:          'Raconteur, Narrator, Voice-over Guy and colour commentator'
-description:      'Raconteur, Narrator, Voice-over Guy and colour commentator'
+tagline:          '...will say stuff for money'
+description:      '...will say stuff for money'
 url:              http://www.jamesbarlow.co.uk
 baseurl:          /
 google_analytics: "UA-32218078-1"
