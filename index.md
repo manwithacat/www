@@ -15,3 +15,4 @@ Five ways to give me money:
 But, wait, there's more...
 
 * [Subscribe to my YouTube channel](http://www.youtube.com/ManwithaCat)  
+* [Follow me on Twitch](https://www.twitch.tv/manwithacat/)
