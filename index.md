@@ -15,6 +15,10 @@ Five ways to give me money:
 
 But, wait, there's more...
 
-* [Subscribe to my Podcast](https://manwithacat.podbean.com/)
+* [Subscribe to my Podcast on iTunes](https://podcasts.apple.com/gb/podcast/esoteric-reads/id1461528094)
 * [Subscribe to my YouTube channel](http://www.youtube.com/ManwithaCat)  
 * [Follow me on Twitch](https://www.twitch.tv/manwithacat/)
+
+Techie links...
+
+* [Podcast Home](http://podcast.jamesbarlow.co.uk/) [Feed](http://podcast.jamesbarlow.co.uk/feed.xml) 
