@@ -4,7 +4,7 @@ title: James Barlow
 permalink: /
 ---
 
-Five ways to give me money:
+Here are some ways to give me money:
 
 * [Buy my books on Amazon](https://www.amazon.co.uk/-/e/B0721CMPZX)  
 * [Listen to books I've authored on Audible](https://www.audible.co.uk/search?searchAuthor=A+Man+with+a+Cat)
@@ -12,6 +12,7 @@ Five ways to give me money:
 * [Patronise me on Patreon](https://www.patreon.com/manwithacat)  
 * [Buy my Voice on Fiverr](https://www.fiverr.com/manwithacat)
 * [Hire me for quick Voiceover Jobs on Voicebunny](https://voicebunny.com/profile/james-barlow-2OANNUK/)
+* [Hire me through Voice123](https://voice123.com/jamesbarlowuk)
 
 But, wait, there's more...
 
