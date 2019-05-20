@@ -13,6 +13,7 @@ Here are some ways to give me money:
 * [Buy my Voice on Fiverr](https://www.fiverr.com/manwithacat)
 * [Hire me for quick Voiceover Jobs on Voicebunny](https://voicebunny.com/profile/james-barlow-2OANNUK/)
 * [Hire me through Voice123](https://voice123.com/jamesbarlowuk)
+* [Contact me via email](mailto:web@jamesbarlow.co.uk)  
 
 But, wait, there's more...
 
@@ -22,4 +23,4 @@ But, wait, there's more...
 
 Techie links...
 
-* [Podcast Home](http://podcast.jamesbarlow.co.uk/) [Feed](http://podcast.jamesbarlow.co.uk/feed.xml) 
+* [Podcast Home](http://podcast.jamesbarlow.co.uk/) / [Feed](http://podcast.jamesbarlow.co.uk/feed.xml) 
