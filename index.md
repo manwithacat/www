@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: front
 title: James Barlow
 permalink: /
+id: home
 ---
 
 Here are some ways to give me money:

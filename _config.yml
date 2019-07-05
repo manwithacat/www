@@ -1,11 +1,8 @@
-#theme
-# theme: jekyll-theme-architect
-
 # Setup
 repository:       jmbarlow/www
 title:            James Barlow
 tagline:          '...will say stuff for money'
-description:      '...will say stuff for money'
+description:      Voice Over Guy, Narrator & Voice Actor
 url:              http://www.jamesbarlow.co.uk
 baseurl:          /
 google_analytics: "UA-32218078-1"

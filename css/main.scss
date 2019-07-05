@@ -37,6 +37,22 @@
 $theme-primary: #F05F40;
 $theme-dark: #222;
 
+// Few random tweaks
+.service-box {
+        a {text-decoration: none;}
+}
+
+#contact {
+        a:hover, a:focus {text-decoration: none;}
+}
+
+// Header Images
+#audiobooks {background-image: url(../img/header2.jpg);}
+#elearning {background-image: url(../img/header3.jpg);}
+#commercial {background-image: url(../img/header4.jpg);}
+#interactive {background-image: url(../img/header5.jpg);}
+#narrative {background-image: url(../img/header6.jpg);}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
