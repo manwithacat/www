@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: front
 title: James Barlow
 permalink: /
 ---
