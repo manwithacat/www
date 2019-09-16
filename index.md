@@ -1,6 +1,6 @@
 ---
 layout: front
-title: James Barlow
+title: Man with a Cat
 permalink: /
 id: home
 ---

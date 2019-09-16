@@ -1,8 +1,8 @@
 # Setup
 repository:       jmbarlow/www
-title:            James Barlow
+title:            Man with a Cat
 tagline:          '...will say stuff for money'
-description:      Voice Over Guy, Narrator & Voice Actor
+description:      Voice Over Guy, Narrator & Audio Producer
 url:              http://www.jamesbarlow.co.uk
 baseurl:          /
 google_analytics: "UA-32218078-1"
@@ -16,7 +16,7 @@ cookie_control:   "c22932703f4a790c6bf91b9a0f4369bb38926269"
 
 author:
   name:           'James Barlow'
-  url:            http://www.jamesbarlow.co.uk
+  url:            http://www.manwithacat.uk
 
 # Permalinks
 permalink:       :title
