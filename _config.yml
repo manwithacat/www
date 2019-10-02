@@ -1,0 +1,24 @@
+# Setup
+repository:       jmbarlow/www
+title:            Man with a Cat
+tagline:          '...will say stuff for money'
+description:      Voice Over Guy, Narrator & Audio Producer
+url:              http://www.jamesbarlow.co.uk
+baseurl:          /
+google_analytics: "UA-32218078-1"
+gtm:              "GTM-P3CDPP"
+publisher:        "70c5804e-f2df-4819-9f8a-83bc7a282f54"
+cookie_control:   "c22932703f4a790c6bf91b9a0f4369bb38926269"
+
+#sass:
+#  sass_dir:       _sass
+#  style:          :compressed
+
+author:
+  name:           'James Barlow'
+  url:            http://www.manwithacat.uk
+
+# Permalinks
+permalink:       :title
+
+github:  [metadata]
