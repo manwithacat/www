@@ -31,15 +31,13 @@
     }
 
     if(readCookie('cookie-notice-dismissed')=='true') {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-32218078-1');
+        dataLayer.push({‘event’:’cookieconsent_dismissed’});
     } else {
-        $('#cookie-notice').show();
+        $('#cookie-notice').show();        
     }
     $('#cookie-notice-accept').click(function() {
         createCookie('cookie-notice-dismissed','true',31);
+        dataLayer.push({‘event’:’cookieconsent_accepted’});
         $('#cookie-notice').hide();
         location.reload();
     });
