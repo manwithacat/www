@@ -31,7 +31,7 @@
     }
 
     if(readCookie('cookie-notice-dismissed')=='true') {
-        dataLayer.push({‘event’:’cookieconsent_dismissed’});
+        dataLayer.push({`event`:`cookieconsent_dismissed`});
     } else {
         $('#cookie-notice').show();        
     }
