@@ -37,7 +37,7 @@
     }
     $('#cookie-notice-accept').click(function() {
         createCookie('cookie-notice-dismissed','true',31);
-        dataLayer.push({‘event’:’cookieconsent_accepted’});
+        dataLayer.push({'event':'cookieconsent_accepted'});
         $('#cookie-notice').hide();
         location.reload();
     });
