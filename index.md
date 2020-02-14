@@ -1,5 +1,5 @@
 ---
-layout: front
+layout: page
 title: Man with a Cat
 permalink: /
 id: home
